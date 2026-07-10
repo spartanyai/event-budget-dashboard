@@ -3,7 +3,7 @@
 A responsive and interactive web-based dashboard designed for event planners to manage budgets, tracking attendees, and select event venues in real-time. Built with a clean dark-themed user interface.
 
 ## Live Demo
-🔗 [View Live Website](https://spartanyai.github.io/event-budget-dashboard/)
+🔗 [View Live Website](https://github.com/spartanyai/event-budget-dashboard.git)
 
 ## Key Features
 * **Interactive Venue Selection:** Real-time venue selector that dynamically updates the event header location using JavaScript DOM manipulation.
